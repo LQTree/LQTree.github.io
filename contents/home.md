@@ -1,4 +1,4 @@
-[![LQTree](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/LQTree)
+[![LQTree](https://img.shields.io/badge/LQTree-github-blue?logo=github)](https://github.com/LQTree)
 
 I'm a undergraduate student at East China Normal University.
 
