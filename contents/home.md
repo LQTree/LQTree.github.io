@@ -1,6 +1,6 @@
 [![LQTree](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/LQTree)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm a undergraduate student at East China Normal University.
 
 #### Email  
 <code>10235501420@stu.ecnu.edu.cn</code>  
